@@ -8,6 +8,9 @@
 
 ## x != y : not equal
 ```brainfuck
+(0)x; y
+[->-<]>[[-]+]
+(0)0 bool;
 ```
 
 ## x > y : greater than
