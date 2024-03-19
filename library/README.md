@@ -71,8 +71,11 @@
 (0)xmy; 0
 ```
 
-## x * y : multiplicaion
+## x * y : multiplication
 ```brainfuck
+(0)x; y 0 0
+[->[->+>+<<]>>[-<<+>>]<<<]>[-]>
+(0)0 0 xty; 0
 ```
 
 ## x // y : division
