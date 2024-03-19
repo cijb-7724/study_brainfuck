@@ -59,6 +59,9 @@
 # CALCULATION
 ## x + y : addition
 ```brainfuck
+(0)x; y
+[->+<]>
+(0)0 xpy;
 ```
 
 ## x - y : subtraction
