@@ -23,7 +23,7 @@
 ```brainfuck
 ```
 
-## x % y == 0 : modulo
+## x % y == 0 : factor
 ```brainfuck
 ```
 
