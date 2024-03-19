@@ -73,6 +73,13 @@
 ```brainfuck
 ```
 
+## x,y = y,x : swap
+```brainfuck
+(0)x; y 0
+[->>+<<]>[-<+>]>[-<+>]<<
+(0)y; x 0
+```
+
 ## x+0 : zero
 ```brainfuck
 ```
