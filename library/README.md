@@ -1,6 +1,9 @@
 # BOOLEAN
 ## x == y : equal
 ```brainfuck
+(0)x; y 0
+[->-<]>>+<[[-]>-<]>
+(0)0 0 bool;
 ```
 
 ## x != y : not equal
@@ -29,6 +32,9 @@
 
 ## !bool : boolean inversion
 ```brainfuck
+(0)bool; 0
+>+<[[-]>-<]>
+(0)0 !bool;
 ```
 
 
