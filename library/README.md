@@ -32,7 +32,7 @@
 ```
 
 
-# CALCLATION
+# CALCULATION
 ## x + y : addition
 ```brainfuck
 ```
