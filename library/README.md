@@ -66,6 +66,9 @@
 
 ## x - y : subtraction
 ```brainfuck
+(0)x; y
+>[-<->]<
+(0)xmy; 0
 ```
 
 ## x * y : multiplicaion
