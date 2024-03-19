@@ -15,6 +15,9 @@
 
 ## x > y : greater than
 ```brainfuck
+(0)x; y 0 0 0 (5)0
+[>[->+>+<<]>>[-<<+>>]<[->-<]>>+<[[-]>-<]>[->+<]<<<<->-<]>[-]>>>>
+(0)0 0 0 0 0 (5)boolean;
 ```
 
 ## x >= y : greater than or equal to
