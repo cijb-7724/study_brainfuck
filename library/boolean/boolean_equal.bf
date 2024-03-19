@@ -1,4 +1,4 @@
-use n cells
+use 3 cells
 
 (0)x; y 0
 [
