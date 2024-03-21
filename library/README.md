@@ -60,6 +60,9 @@
 (0)0 !bool;
 ```
 
+## b_x And b_y : Logical AND
+## b_x Or b_y : Logical OR
+
 
 # CALCULATION
 ## x + y : addition
