@@ -60,11 +60,11 @@
 (0)0 !bool;
 ```
 
-## b_x And b_y : Logical AND
+## A & B : Logical AND
 ```brainfuck
 (0)a; b 0 0
 [->[->+>+<<]>>[-<<+>>]<<<]>[-]>
-(0)0 0 atb; 0
+(0)0 0 a&b; 0
 ```
 ## b_x Or b_y : Logical OR
 
