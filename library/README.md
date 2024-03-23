@@ -61,6 +61,11 @@
 ```
 
 ## b_x And b_y : Logical AND
+```brainfuck
+(0)a; b 0 0
+[->[->+>+<<]>>[-<<+>>]<<<]>[-]>
+(0)0 0 atb; 0
+```
 ## b_x Or b_y : Logical OR
 
 
