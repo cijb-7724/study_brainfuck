@@ -167,7 +167,7 @@
 
 
 # INPUT OUTPUT
-## input x (mod 256) until \n 
+## input x $(mod\ 256)$ until \n 
 ```brainfuck
 (0)0; 0 0 0
 >>,----- -----[>+++++ +[-<----- ->]<--<<
@@ -175,7 +175,7 @@
 (0)x; 0 0 0
 ```
 
-## input x (mod 256) until space 
+## input x $(mod\ 256)$ until space 
 ```brainfuck
 (0)0; 0 0 0
 >>,>++++++[-<----->]<--
@@ -197,7 +197,7 @@ input
 (0)48 49 51 50 0; 0 0 '''
 ```
 
-## input x (mod 256) until \n or space
+## input x $(mod\ 256)$ until \n or space
 ```brainfuck
 (0)0; 0 0 0'''
 ===== ===== ===== ===== 
@@ -211,7 +211,7 @@ input
 (0)x; 0 0 0
 ```
 
-## output x where 0<=x<2^8
+## output x $where\ 0 \leq x<256$
 ```brainfuck
 (0)n; 0 0 0 0 0 0 (7)0
 ===== ===== ===== ===== 
