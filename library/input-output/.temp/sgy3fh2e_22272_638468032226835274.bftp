@@ -1,0 +1,5 @@
+{
+  "__type": "TempFileInfo:#BrainfuckIDE.Filer",
+  "original_file_path": "C:\\Users\\cotan\\Documents\\program\\brainfuck\\study_brainfuck\\library\\input-output\\input_1cell-untile-space.bf",
+  "source_code": "use 4 cells\r\n\r\n===== ===== ===== ===== \r\n結果が1cellに収まるというだけで，\r\n256以上の数値も読み取り可能\r\nただし，mod 256になることに注意\r\n===== ===== ===== ===== \r\n\r\n(0)0; 0 0 0\r\n>>\r\n(2) = n\r\n,\r\n(0)0 0 n; 0\r\n\r\n(2) = (2)m32\r\n>+++++ +[-<----->]<--\r\n[\r\n    (2)m16\r\n    >++++[-<---->]<\r\n    <<\r\n    if (0)\r\n        (1) = 10mul(0) and (0) = 0\r\n    [\r\n        -\r\n        >++++++++++\r\n        <\r\n    ]\r\n\r\n    (0);\r\n    >>\r\n    if (2)\r\n        (1) = (1)p(2) and (2) = 0\r\n    [\r\n        -\r\n        <+\r\n        >\r\n    ]\r\n\r\n    <\r\n    (1);\r\n    if (1)\r\n        (0) = (0)p(1) and (1) = 0\r\n    [\r\n        -\r\n        <+\r\n        >\r\n    ]\r\n    \r\n    >\r\n    (2);\r\n    ,\r\n    (2) = nm32\r\n    >+++++ +[-<----->]<--\r\n]\r\n<<\r\n(0)x; 0 0 0\r\n\r\nwhen using\r\n\r\n(0)0; 0 0 0\r\n\r\n(0)x; 0 0 0\r\n\r\n"
+}
