@@ -1,0 +1,5 @@
+{
+  "__type": "TempFileInfo:#BrainfuckIDE.Filer",
+  "original_file_path": "C:\\Users\\cotan\\Documents\\program\\brainfuck\\study_brainfuck\\competition\\AtcoderBrainfuckContest02\\6_C - XYZ Triplets.bf",
+  "source_code": "\r\n(10) = 255\r\n\r\n>>>>>\r\n509\r\n,----- -----\r\n[\r\n    >+++++ +[-<----- ->]<--\r\n    <<<[-<+>]\r\n    >[-<+>]\r\n    >[-<+>]\r\n    >[-<+>]\r\n    ,----- -----\r\n]\r\n(0)0 0 5 0 9 0;\r\n\r\n>\r\n>+++++ ++++\r\n>+++++ ++++\r\n>+++++ ++++\r\n>+++++ ++++\r\n\r\n(0)0 0 5 0 9 0 0 9 9 9 9;\r\n<<<<< <\r\n\r\n(0)x; 0 0\r\n[->+>+<<]>>[-<<+>>]<\r\n(0)x x; 0\r\n[->>>>>-<<<<<]\r\n\r\n<<\r\n[->>+>+<<<]>>>[-<<<+>>>]<\r\n[->>>>-<<<<]\r\n\r\n<<<\r\n[->>>+>+<<<<]>>>>[-<<<<+>>>>]<\r\n[->>>-<<<]\r\n\r\n>>>>>\r\n+\r\n<<<+\r\n\r\n\r\n[-<<<<< <+>>>>> >]\r\n<\r\n[-<<<<< <+>>>>> >]\r\n<\r\n[-<<<<< <+>>>>> >]\r\n<\r\n[-<<<<< <+>>>>> >]\r\n<\r\n\r\n\r\n\r\n\r\n"
+}
